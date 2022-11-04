@@ -26,7 +26,7 @@
     "@types/react-google-recaptcha": "2.1.5",
     "autoprefixer": "10.4.11",
     "eslint": "8.23.1",
-    "eslint-config-next": "12.3.0",
+    "eslint-config-next": "13.0.2",
     "eslint-config-prettier": "8.5.0",
     "postcss": "8.4.16",
     "prettier": "2.7.1",
