@@ -17,7 +17,7 @@
   "devDependencies": {
     "@tailwindcss/aspect-ratio": "0.4.2",
     "@tailwindcss/line-clamp": "0.4.2",
-    "@tailwindcss/typography": "0.5.7",
+    "@tailwindcss/typography": "0.5.8",
     "@types/node": "18.11.9",
     "@types/nodemailer": "6.4.6",
     "@types/qs": "6.9.7",
